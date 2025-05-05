@@ -157,7 +157,7 @@
         <div class="row text-center">
           <div class="col-sm">
             <h5>About Us</h5>
-              <p>Educa... provides universal access to the world’s best education, partnering with top universities and organizations to offer courses online.</p>
+              <p>Sanjivani... provides universal access to the world’s best education, partnering with top universities and organizations to offer courses online.</p>
           </div>
           <div class="col-sm">
             <h5>Category</h5>
@@ -169,7 +169,7 @@
           </div>
           <div class="col-sm">
             <h5>Contact Us</h5>
-            <p>Education Pvt Ltd <br>Near Police Camp II, Jalgoan <br>Maharashtra - 834005 <br> Ph. 000000000 </p>
+            <p>Sanjivani  <br>sanjivani college of engineering  <br>Maharashtra - 433603 <br> Ph. 000000000 </p>
           </div>
         </div>
       </div>
